@@ -1,0 +1,15 @@
+artifact_uri: file:///media/paperland/Main%20Data1/1%20%20RESEARCH%20FILE/AI%20MASTERY/Project_Mine/Oil_prediction/mlruns/850789997298919547/a52a74861b604515afb5055c141d4b99/artifacts
+end_time: 1689053913753
+entry_point_name: ''
+experiment_id: '850789997298919547'
+lifecycle_stage: active
+run_id: a52a74861b604515afb5055c141d4b99
+run_name: Linear Regression
+run_uuid: a52a74861b604515afb5055c141d4b99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689053913671
+status: 4
+tags: []
+user_id: paperland

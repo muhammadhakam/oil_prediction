@@ -1,0 +1,15 @@
+artifact_uri: file:///media/paperland/Main%20Data1/1%20%20RESEARCH%20FILE/AI%20MASTERY/Project_Mine/Oil_prediction/mlruns/850789997298919547/338619aeb96045adb8700fc0fa98ea13/artifacts
+end_time: 1689054655471
+entry_point_name: ''
+experiment_id: '850789997298919547'
+lifecycle_stage: active
+run_id: 338619aeb96045adb8700fc0fa98ea13
+run_name: XGBoost with K-Fold
+run_uuid: 338619aeb96045adb8700fc0fa98ea13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689054597839
+status: 3
+tags: []
+user_id: paperland

@@ -1,0 +1,15 @@
+artifact_uri: file:///media/paperland/Main%20Data1/1%20%20RESEARCH%20FILE/AI%20MASTERY/Project_Mine/Oil_prediction/mlruns/850789997298919547/2ec14b3da332453eb4c36a12ee4e3014/artifacts
+end_time: 1689054597798
+entry_point_name: ''
+experiment_id: '850789997298919547'
+lifecycle_stage: active
+run_id: 2ec14b3da332453eb4c36a12ee4e3014
+run_name: XGBoost
+run_uuid: 2ec14b3da332453eb4c36a12ee4e3014
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689054594859
+status: 3
+tags: []
+user_id: paperland

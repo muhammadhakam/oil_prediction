@@ -1,0 +1,1 @@
+{'numerical': {'feature_engineering': True, 'imputation': True, 'standardization': True, 'normalization': True}, 'categorical': {'imputation': True, 'one_hot_encoding': True}}
